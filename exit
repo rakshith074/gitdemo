@@ -1,0 +1,9 @@
+[1mdiff --git a/demogit b/demogit[m
+[1mindex 95d09f2..bd0e958 100644[m
+[1m--- a/demogit[m
+[1m+++ b/demogit[m
+[36m@@ -1 +1 @@[m
+[31m-hello world[m
+\ No newline at end of file[m
+[32m+[m[32mhello world!!![m
+\ No newline at end of file[m
